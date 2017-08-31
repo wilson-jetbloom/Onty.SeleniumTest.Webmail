@@ -57,7 +57,7 @@ They currently support FireFox, IE, Chrome, and PhantomJS.
  
 1. _Occasionally, a message that a FireFox plugin has crashed may be displayed.
    This does not seem to affect the test results. Just click "close" after the test
-   finisies running. I don't know how to make the message not appear.
+   finishes running. I don't know how to make the message not appear.
    If anyone knows how to fix it, please tell me. Thanks._
 1. _The WebDriver executables sometimes stay running in memory after the test completes.
    This is a deficiency of WebDriver. The test calls driver.Quit() whether test passes
